@@ -7,9 +7,9 @@ An autonomous system that plays physical chess against a human opponent by combi
 
 ## Demo
 
-<video src="https://github.com/Canberk350/Chess-Board-Analyzer/raw/main/demo.mp4" controls width="700"></video>
+[![Watch the demo](docs/thumbnail.jpg)](https://canberk350.github.io/Chess-Board-Analyzer/)
 
-*(If the video doesn't render above, watch it directly: [demo.mp4](https://github.com/Canberk350/Chess-Board-Analyzer/raw/main/demo.mp4))*
+**[▶ Watch the demo video](https://canberk350.github.io/Chess-Board-Analyzer/)** (plays in-browser, no download needed)
 
 ## Overview
 
